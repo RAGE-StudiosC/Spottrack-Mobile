@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Tu música. En cualquier lugar.</strong>
+  <strong>Tu música. Ahora en Android.</strong>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/downloads/RAGE-StudiosC/Spottrack-Mobile/total?style=for-the-badge&label=DOWNLOADS" alt="Downloads">
   </a>
   <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" alt="Android">
-  <img src="https://img.shields.io/badge/Version-5.0.0-purple?style=for-the-badge" alt="Version 5.0.0">
+  <img src="https://img.shields.io/badge/Version-5.0.0-purple?style=for-the-badge" alt="Version 5.0.1">
 </p>
 
 <p align="center">
