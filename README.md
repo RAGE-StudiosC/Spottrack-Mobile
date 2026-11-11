@@ -222,7 +222,7 @@ https://github.com/RAGE-StudiosC/Spottrack-Mobile/releases
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Android-10%2B-green?style=for-the-badge&logo=android" alt="Android 10+">
+<img src="https://img.shields.io/badge/Android-8%2B-green?style=for-the-badge&logo=android" alt="Android 8+">
 <img src="https://img.shields.io/badge/Architecture-ARM64%20%7C%20ARMv7-blue?style=for-the-badge" alt="Architecture">
 <img src="https://img.shields.io/badge/Release-Stable-success?style=for-the-badge" alt="Stable">
 
