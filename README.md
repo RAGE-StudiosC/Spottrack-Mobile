@@ -1,7 +1,7 @@
 # 🎵 Spottrack Mobile
 
 <p align="center">
-  <img src="images/logo.png" alt="Spottrack Mobile" width="900">
+  <img src="images/logo.png" alt="Spottrack Mobile" width="220">
 </p>
 
 <p align="center">
