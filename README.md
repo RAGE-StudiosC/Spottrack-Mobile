@@ -1,7 +1,7 @@
 # 🎵 Spottrack Mobile
 
 <p align="center">
-  <img src="images/banner.png" alt="Spottrack Mobile" width="900">
+  <img src="images/logo.png" alt="Spottrack Mobile" width="900">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/downloads/RAGE-StudiosC/Spottrack-Mobile/total?style=for-the-badge&label=DOWNLOADS" alt="Downloads">
   </a>
   <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" alt="Android">
-  <img src="https://img.shields.io/badge/Version-5.0.0-purple?style=for-the-badge" alt="Version 5.0.1">
+  <img src="https://img.shields.io/badge/Version-5.0.1-purple?style=for-the-badge" alt="Version 5.0.1">
 </p>
 
 <p align="center">
@@ -33,9 +33,9 @@
 
 **Spottrack Mobile** es la aplicación de música de **RAGE Studios** para Android.
 
-Una experiencia musical rápida, moderna y sin anuncios, con acceso a contenido musical de **YouTube y YouTube Music**.
+Una experiencia musical rápida y moderna, con acceso a contenido musical de **YouTube y YouTube Music**.
 
-> **Spottrack Mobile 5.0.0** es una nueva generación de la aplicación, reconstruida desde cero después de la versión 4.2.
+> **Spottrack Mobile 5.0.1** es la versión estable actual de la generación 5.x, la nueva generación de la aplicación que fue reconstruida desde cero a partir de la versión 4.2 con el lanzamiento de la **5.0.0**.
 
 ---
 
@@ -108,34 +108,17 @@ Spottrack está diseñado para ofrecer una experiencia musical limpia y rápida,
 
 ---
 
-## 📱 Screenshots
+## 🚀 Spottrack Mobile 5.0.1
 
-<p align="center">
-  <img src="images/home.png" width="220" alt="Spottrack Home">
-  &nbsp;&nbsp;
-  <img src="images/search.png" width="220" alt="Spottrack Search">
-  &nbsp;&nbsp;
-  <img src="images/player.png" width="220" alt="Spottrack Player">
-  &nbsp;&nbsp;
-  <img src="images/playlist.png" width="220" alt="Spottrack Playlists">
-</p>
+### Versión actual
 
----
-
-## 🚀 Spottrack Mobile 5.0.0
-
-### From 4.2 → 5.0.0
-
-Spottrack Mobile pasa de la generación **4.x** a una nueva generación completamente reconstruida.
+Spottrack Mobile **5.0.1** es la versión estable más reciente y la recomendada para todos los usuarios.
 
 ```text
-Spottrack Mobile 4.2
-        │
-        ▼
-   Rebuild completo
-        │
-        ▼
 Spottrack Mobile 5.0.0
+        │
+        ▼
+Spottrack Mobile 5.0.1  ← Versión actual
 ```
 
 ### 🆕 Highlights
@@ -155,6 +138,23 @@ Spottrack Mobile 5.0.0
 ✓ Optimización para Android
 ```
 
+### From 4.2 → 5.0.0
+
+La generación **5.x** nació con la versión **5.0.0**, una reconstrucción completa de la aplicación.
+
+```text
+Spottrack Mobile 4.2
+        │
+        ▼
+   Rebuild completo
+        │
+        ▼
+Spottrack Mobile 5.0.0
+        │
+        ▼
+Spottrack Mobile 5.0.1
+```
+
 ---
 
 ## 📦 Download
@@ -172,12 +172,12 @@ Las versiones oficiales de Spottrack Mobile se distribuyen mediante **GitHub Rel
 ### Current version
 
 ```text
-Version: 5.0.0
+Version: 5.0.1
 Platform: Android
 Release channel: Stable
 ```
 
-➡️ **[Descargar Spottrack Mobile 5.0.0](../../releases/latest)**
+➡️ **[Descargar Spottrack Mobile 5.0.1](../../releases/latest)**
 
 ➡️ **[Ver todas las versiones](../../releases)**
 
@@ -191,10 +191,10 @@ Este repositorio funciona como el **canal oficial de distribución y actualizaci
 Spottrack Mobile
        │
        ▼
-GitHub Releases
+Nueva versión disponible
        │
        ▼
-Nueva versión disponible
+GitHub Releases
        │
        ▼
 Actualización
@@ -210,10 +210,11 @@ https://github.com/RAGE-StudiosC/Spottrack-Mobile/releases
 
 ## 📋 Version History
 
-| Version |   Status  | Description                              |
-| :-----: | :-------: | ---------------------------------------- |
-| `5.0.0` | 🟢 Latest | Nueva generación de Spottrack Mobile     |
-|  `4.2`  |  ⚪ Legacy | Última versión de la generación anterior |
+| Version |   Status  | Description                                       |
+| :-----: | :-------: | ------------------------------------------------- |
+| `5.0.1` | 🟢 Latest | Versión estable actual de Spottrack Mobile        |
+| `5.0.0` | ⚪ Previous | Lanzamiento de la nueva generación de Spottrack Mobile |
+|  `4.2`  |  ⚪ Legacy | Última versión de la generación anterior          |
 
 ---
 
@@ -230,8 +231,8 @@ https://github.com/RAGE-StudiosC/Spottrack-Mobile/releases
 |                     | Information     |
 | ------------------- | --------------- |
 | 📱 Platform         | Android         |
-| 🔢 Current Version  | `5.0.0`         |
-| 🕐 Previous Version | `4.2`           |
+| 🔢 Current Version  | `5.0.1`         |
+| 🕐 Previous Version | `5.0.0`         |
 | 🟢 Channel          | Stable          |
 | 🏢 Developer        | RAGE Studios    |
 | 📦 Distribution     | GitHub Releases |
@@ -262,7 +263,6 @@ Su objetivo es servir como:
 ```text
 📦 Release Repository
 🖼️ Presentation
-📸 Screenshots
 📝 Changelogs
 🔄 Update Distribution
 ```
@@ -283,7 +283,7 @@ Spottrack, su nombre, logotipo, diseños, imágenes y demás elementos perteneci
 
 ### 🎵 Spottrack Mobile
 
-<strong>5.0.0</strong>
+<strong>5.0.1</strong>
 
 Made with ❤️ by <strong>RAGE Studios</strong>
 
